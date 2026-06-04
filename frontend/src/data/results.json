@@ -1,0 +1,55 @@
+{
+  "stats": {
+    "totalSpend": 17353120,
+    "totalRevenue": 23696948.18,
+    "bestChannel": "Email",
+    "roiUplift": 255.5,
+    "currency": "INR"
+  },
+  "channels": [
+    {
+      "name": "Google Ads",
+      "spend": 7777500,
+      "revenue": 6928817.08,
+      "roi": -10.91
+    },
+    {
+      "name": "Email",
+      "spend": 715560,
+      "revenue": 3251137.28,
+      "roi": 354.35
+    },
+    {
+      "name": "Instagram",
+      "spend": 5577100,
+      "revenue": 8642923.12,
+      "roi": 54.97
+    },
+    {
+      "name": "Facebook",
+      "spend": 1666560,
+      "revenue": 2997247.25,
+      "roi": 79.85
+    },
+    {
+      "name": "YouTube",
+      "spend": 1616400,
+      "revenue": 1876823.45,
+      "roi": 16.11
+    }
+  ],
+  "abtest": {
+    "variantA": "Campaign A (Existing)",
+    "variantB": "Campaign B (New)",
+    "conversionA": 6.4286,
+    "conversionB": 14.9107,
+    "pValue": 0.0,
+    "ciLow": 0.066912,
+    "ciHigh": 0.102731,
+    "significant": true,
+    "winner": "B",
+    "uplift": 131.94
+  },
+  "recommendation": "Reallocating 20% of budget from the lowest-ROI channel (Google Ads, -10.9% ROI) to Email (354.4% ROI) is projected to improve blended ROI by 255.5 percentage points.",
+  "insight": "Campaign B significantly outperforms with a 131.9% conversion uplift (p < 0.0001 \u2014 statistically significant at 95% confidence)."
+}
