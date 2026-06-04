@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-**[marketing-decision-engine.vercel.app](https://marketing-decision-engine.vercel.app)** &nbsp;·&nbsp; [GitHub Repository](https://github.com/sumeet7878/marketing-decision-engine)
+**[frontend-lyart-psi-96.vercel.app](https://frontend-lyart-psi-96.vercel.app)** &nbsp;·&nbsp; [GitHub Repository](https://github.com/sumeet7878/marketing-decision-engine)
 
 ![Dashboard](Screenshot.png)
 
