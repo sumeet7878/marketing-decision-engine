@@ -157,9 +157,8 @@ export default function App() {
 
       </main>
 
-      <footer className="flex flex-col items-center text-center text-xs text-slate-400 py-6 border-t border-slate-100 mt-2">
-        <span>Data: Marketing Campaign Dataset (dphi) · Powered by React + Recharts + Tailwind CSS · Pre-computed = instant load</span>
-        <span className="mt-1 text-[10px] text-slate-400">Currency conversion uses fixed approximate rates for presentation purposes.</span>
+      <footer className="text-center text-xs text-slate-400 py-6 border-t border-slate-100 mt-2">
+        Data: Marketing Campaign Dataset (dphi) · Powered by React + Recharts + Tailwind CSS · Pre-computed = instant load
       </footer>
     </div>
   )
