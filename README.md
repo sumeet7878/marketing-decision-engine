@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-**[marketing-decision-engine-six.vercel.app](https://marketing-decision-engine-six.vercel.app/)** &nbsp;·&nbsp; [GitHub Repository](https://github.com/sumeet7878/marketing-decision-engine)
+**[🚀 View Dashboard →](https://marketing-decision-engine-six.vercel.app/)** &nbsp;·&nbsp; **[📂 GitHub Repository](https://github.com/sumeet7878/marketing-decision-engine)**
 
 ![Dashboard](./screenshots/Marketing-Decision-Engine.png)
 
