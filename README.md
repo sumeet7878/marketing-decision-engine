@@ -43,19 +43,25 @@ Without statistical rigor, "Campaign B performed better" is anecdote — not evi
 
 > **Reallocating budget to Email — the top-performing channel at 354.35% ROI — from Google Ads (−10.91% ROI) is projected to improve blended ROI by 255.5 percentage points, backed by statistical A/B testing — not guesswork.**
 
-| Metric                   | Value                   |
-| ------------------------ | ----------------------- |
-| Total Spend              | ₹1.74 Cr                |
-| Total Revenue            | ₹2.37 Cr                |
-| Best Channel             | **Email — 354.35% ROI**    |
+| Metric                   | Value                    |
+| ------------------------ | ------------------------ |
+| Total Spend              | ₹1.74 Cr                 |
+| Total Revenue            | ₹2.37 Cr                 |
+| Best Channel             | **Email — 354.35% ROI**  |
 | Worst Channel            | Google Ads — −10.91% ROI |
-| ROI Uplift (best vs avg) | **+255.5 pp**           |
+| ROI Uplift (best vs avg) | **+255.5 pp**            |
+
+---
+
+## Strategic Recommendation
+
+Reallocating 20% of budget from the lowest-ROI channel (Google Ads, −10.91% ROI) to Email (354.35% ROI) is projected to improve blended ROI by 255.5 percentage points.
 
 ---
 
 ## Key Insight
 
-> Campaign B (new creative) converted at **14.91% vs 6.43%** — a **131.9% uplift** with p < 0.0001. Statistically significant at 95% confidence, not random chance.
+Campaign B significantly outperforms with a **131.9% conversion uplift** (p < 0.0001 — statistically significant at 95% confidence).
 
 ---
 
