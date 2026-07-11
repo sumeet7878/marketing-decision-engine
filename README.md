@@ -16,6 +16,20 @@
 
 ![Dashboard](Screenshot.png)
 
+**Note:** All currency values are converted from INR to USD using an approximate exchange rate of 1 INR = 0.012 USD for presentation purposes.
+
+---
+
+## Power BI Dashboard
+
+In addition to the live web dashboard, this project includes a Power BI version — **Marketing-Decision-Engine** — built on the same dataset to demonstrate BI tool proficiency.
+
+![Marketing-Decision-Engine - Power BI Dashboard](screenshots/Marketing-Decision-Engine-powerBI.png)
+
+**[Download the .pbix file](powerbi/Marketing-Decision-Engine.pbix)** — open in Power BI Desktop (free) to explore interactively with filters and slicers.
+
+**Note:** All currency values are converted from INR to USD using an approximate exchange rate of 1 INR = 0.012 USD for presentation purposes.
+
 ---
 
 ## Problem Statement
