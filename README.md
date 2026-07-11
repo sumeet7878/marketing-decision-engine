@@ -14,7 +14,7 @@
 
 **[marketing-decision-engine-six.vercel.app](https://marketing-decision-engine-six.vercel.app/)** &nbsp;·&nbsp; [GitHub Repository](https://github.com/sumeet7878/marketing-decision-engine)
 
-![Dashboard](Screenshot.png)
+![Dashboard](./screenshots/Marketing-Decision-Engine.png)
 
 **Note:** All currency values are converted from INR to USD using an approximate exchange rate of 1 INR = 0.012 USD for presentation purposes.
 
